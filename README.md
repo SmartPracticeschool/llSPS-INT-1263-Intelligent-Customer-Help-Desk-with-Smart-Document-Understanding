@@ -23,5 +23,4 @@ As the data (Document) fed is of Heater,
 Try following Questions :
 "How can I turn on the heater"
 "How can I access the settings"
-"How can I configure it through wifi"
 etc...
