@@ -15,11 +15,8 @@ At the end this Chatbot is integrated to a webpage with the help of "Node-Red" w
 use of these major resources is done 
 And finally a user friendly Chatbot was built.
 
-The Node-Red flow : https://helpdesk-nodered.eu-gb.mybluemix.net/red/#flow/26f76e78.f9b3f2
-
-The ChatBot       : https://helpdesk-nodered.eu-gb.mybluemix.net/ui/#!/0?socketid=t-16t-JJU_8pMhBqAAAX
-
-The Tutorial      : https://youtu.be/mFO2dqX9YOI
+The ChatBot       : https://node-red-ptypv.eu-gb.mybluemix.net/ui/#!/0?socketid=cLv9WaHf_Iy0_eLOAAAC
+The Tutorial      : 
 
 As the data (Document) fed is of Heater,
 Try following Questions :
