@@ -17,7 +17,7 @@ And finally a user friendly Chatbot was built.
 
 The ChatBot       : https://node-red-ptypv.eu-gb.mybluemix.net/ui/#!/0?socketid=cLv9WaHf_Iy0_eLOAAAC
 
-The Tutorial      : 
+Video demo link     : https://youtu.be/c5glteCeedg
 
 As the data (Document) fed is of Heater,
 Try following Questions :
