@@ -19,6 +19,8 @@ The ChatBot       : https://node-red-ptypv.eu-gb.mybluemix.net/ui/#!/0?socketid=
 
 Video demo link     : https://youtu.be/c5glteCeedg
 
+Node_red flow    : https://node-red-ptypv.eu-gb.mybluemix.net/red/#flow/e7c89970.ad9318
+
 As the data (Document) fed is of Heater,
 Try following Questions :
 "How can I turn on the heater"
